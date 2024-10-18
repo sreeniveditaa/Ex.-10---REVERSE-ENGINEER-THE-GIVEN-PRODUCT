@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -32,11 +32,16 @@
 
 ## Input:
 
+![WhatsApp Image 2024-10-16 at 13 05 31_58057fc4](https://github.com/user-attachments/assets/8605a7af-5a7a-4f64-ad1f-95dbfc459bd7)
+
+
 ### Output:
 
+![image](https://github.com/user-attachments/assets/77cbf77c-d841-440f-b6cd-6496a067d14d)
 
-### Name:
-### Register Number:
+
+### Name: SREE NIVEDITAA SARAVANAN
+### Register Number: 212223230213
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
